@@ -3,8 +3,8 @@ const BlogList = ({blogs, title, handleDelete}) => {
     //const title = props.title;
     //console.log(props,blogs);
     //console.log(props,title);
-    console.log(blogs);
-    console.log(title);
+    //console.log(blogs);
+    //console.log(title);
 
     return (
         <div className="blog-list">

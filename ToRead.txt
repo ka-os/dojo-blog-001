@@ -14,6 +14,10 @@ https://www.gatsbyjs.com/docs/how-to/styling/emotion/
 
 ===
 
+https://www.youtube.com/watch?v=mAqYJF-yxO8&list=PL4cUxeGkcC9i2v2ZqJgydXIcRq_ZizIdD&index=2 // JSON Server
+
+
+
 https://developer.chrome.com/docs/extensions/get-started
 https://www.freecodecamp.org/news/building-chrome-extension/
 https://www.youtube.com/watch?v=0n809nd4Zu4
@@ -25,3 +29,4 @@ https://library.lol/main/7082397B7F9E26851F2E61193F882923
 https://locall.host/is-powershell-similar-to-linux-a-comparison/
 
 
+https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/
